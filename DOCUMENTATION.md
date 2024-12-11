@@ -149,9 +149,3 @@ These variables are computed from the `close` price series:
 7. **Risk Management Tools (Stop-Loss/Take-Profit)**: Core techniques to limit losses and secure profits.
 
 ---
-
-## Conclusion
-
-This documentation explains each variable, parameter, and financial technique used in the system. It outlines how data is processed, how features are engineered, how the model is trained and evaluated, and how to integrate the model’s predictions into a live trading environment with robust risk management and monitoring.
-
-Save this file as `DOCUMENTATION.md` in the project’s root directory.
