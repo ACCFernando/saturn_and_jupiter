@@ -1,0 +1,13 @@
+{
+  "trading_pair": "BTCUSDT",
+  "base_url": "https://api.binance.com",
+  "interval": "1m",
+  "lookback_period": 20,
+  "fast_ma_period": 5,
+  "slow_ma_period": 12,
+  "starting_balance": 2000,
+  "position_size_usd": 100,
+  "take_profit_pct": 0.01, 
+  "stop_loss_pct": 0.0005,
+  "paper_trading": true
+}
