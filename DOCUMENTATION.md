@@ -149,4 +149,3 @@ These variables are computed from the `close` price series:
 7. **Risk Management Tools (Stop-Loss/Take-Profit)**: Core techniques to limit losses and secure profits.
 
 ---
-
